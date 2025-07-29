@@ -2,8 +2,7 @@
 
 A Python-based tool to convert 2D DXF drawings into optimized G-code for CNC machines. Supports key geometric entities with features like kerf compensation, entity sorting, and basic path optimization.
 
-![Screenshot](<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/60431841-e919-4d5b-9088-446b3a82e8cc" />
-) <!-- Replace with actual screenshot if GUI exists -->
+![Screenshot](https://github.com/shaahid-ahmed/PathForge/blob/main/src1.png) <!-- Replace with actual screenshot if GUI exists -->
 
 ---
 
